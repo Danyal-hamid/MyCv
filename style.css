@@ -1,0 +1,16 @@
+
+body {width: 1210px; }
+#header1 {background-color: darkgray; height: 200px; width: 300px; float: left; border-top: 2px solid black;border-bottom: 2px solid black;border-left: 2px solid black;}
+#logo {height: 160px; float: right; width: 150px; background-color: #B6E8F3;}
+.header2 {font-family: algerian; background-color: darkgray; width: 899px;float: left;height: 200px; text-align: center; border-top: 2px solid black;border-bottom: 2px solid black;border-right: 2px solid black;}
+.header3 {font-family: 'Courier New', Courier, monospace;}
+#picture {background-color: #E9E9EB; float: left; width: 300px; height: 200px; margin-bottom: 10px; border-bottom: 2px solid black;border-left: 2px solid black;}
+#intro {background-color: #E9E9EB; float: left; height: 200px; width: 899px;margin-bottom: 20px; border-bottom: 2px solid black;border-right: 2px solid black;}
+#leftbody{ background-color: #B6E8F3;width: 300px;float: left; height: 1635px; border: 2px solid black;}
+#rightbody {background-color: darkgray; width: 880px; float: right; padding-left: 10PX;border: 2px solid black;}
+.lefthead {padding-left: 50px;padding-top: 30px; padding-bottom: 10px; font-family: Garamond, serif; font-size: 2rem;}
+.list {line-height: 2;}
+p {line-height: 1.2; font-size: large;}
+.title { font-family: Garamond, serif;font-size: 2rem;}
+.title2 { font-family: 'Brush Script MT', cursive; font-size: 1.5rem;}
+
